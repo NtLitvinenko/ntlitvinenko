@@ -1,13 +1,13 @@
 ### Hi there 👋
-I am NTLDev (or ntlitvinenko)
-Do you know me?
-If no check my GH repos!:
-https://github.com/NtLitvinenko/CRS (Github repo about console rendering)
-https://github.com/NtLitvinenko/GDino_and_Arduino (Github repo about game with LCD 1602 on arduino)
-
-I'm learning (or try to learning) C++, ✨OpenGL✨
-I'm looking for help for my projects (you'r welcome!)
-Fun fact(s): I am live in Novosibirsk.
+I am NTLDev (or ntlitvinenko)<br>
+Do you know me?<br>
+If no check my GH repos!:<br>
+https://github.com/NtLitvinenko/CRS (Github repo about console rendering)<br>
+https://github.com/NtLitvinenko/GDino_and_Arduino (Github repo about game with LCD 1602 on arduino)<br>
+<br>
+I'm learning (or try to learning) C++, ✨OpenGL✨<br>
+I'm looking for help for my projects (you are welcome!)<br>
+Fun fact(s): I am live in Novosibirsk.<br>
 
 <!--
 **NtLitvinenko/ntlitvinenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
